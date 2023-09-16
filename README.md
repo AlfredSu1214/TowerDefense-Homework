@@ -1,6 +1,6 @@
 # Tower Defense Game
 
-**I would likely just leave this project be, star this project and I'll probably restart the development**
+**I would likely just leave this project be, star this project, report issues or pull some requests and I'll probably restart the development**
 
 ## project overview
 
