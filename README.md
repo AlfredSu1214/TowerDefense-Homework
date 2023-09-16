@@ -34,9 +34,9 @@
 ## Control
 
 #### title, select and setting scene:
-    * The mouse is the only input that works
-    * click ```stage <number>``` to enter the game
-    * the setting value is not persistent (it sucks doesn't it?)
+* The mouse is the only input that works
+* click ```stage <number>``` to enter the game
+* the setting value is not persistent (it sucks doesn't it?)
 
 #### gameplay:
 * the first scene you would see is mod selection
